@@ -1,0 +1,21 @@
+{
+  "data": {
+    "tickets": [
+      {
+        "id": "s1",
+        "subject": "WiFi access",
+        "status": "open"
+      },
+      {
+        "id": "s2",
+        "subject": "Printer setup",
+        "status": "done"
+      },
+      {
+        "id": "s3",
+        "subject": "Password reset",
+        "status": "open"
+      }
+    ]
+  }
+}

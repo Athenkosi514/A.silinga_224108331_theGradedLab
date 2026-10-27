@@ -1,0 +1,21 @@
+{
+  "data": {
+    "tasks": [
+      {
+        "id": "t1",
+        "title": "Library return",
+        "status": "open"
+      },
+      {
+        "id": "t2",
+        "title": "Lab booking",
+        "status": "done"
+      },
+      {
+        "id": "t3",
+        "title": "Lecture notes",
+        "status": "open"
+      }
+    ]
+  }
+}
